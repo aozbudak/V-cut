@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vücut Kitle İndeksi</string>
+    <string name="boy_label">Boy (cm):</string>
+    <string name="kilo_label">Kilo (kg):</string>
+    <string name="hesapla">HESAPLA</string>
+    <string name="bmi_baslik">BMI: %1$s</string>
+    <string name="kategori_metin">(Kategori: %1$s)</string>
+</resources>
